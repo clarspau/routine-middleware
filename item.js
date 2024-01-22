@@ -1,6 +1,6 @@
 /** Shopping Cart Items. */
 
-const items = require('./fakeDB');
+const items = require("./fakeDb");
 
 class Item {
      constructor(name, price) {
